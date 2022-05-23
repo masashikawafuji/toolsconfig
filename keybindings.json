@@ -101,5 +101,9 @@
   {
     "key": "cmd+k cmd+right",
     "command": "-workbench.action.focusRightGroup"
+  },
+  {
+    "key": "ctrl+cmd+r",
+    "command": "workbench.action.evenEditorWidths"
   }
 ]
